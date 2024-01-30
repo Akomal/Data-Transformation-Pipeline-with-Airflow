@@ -1,5 +1,10 @@
 # Overview
 This project is a part of my build in public challenge on twitter. The dataset used for this challenge is anime dataset from Kaggle.The project is intended to analyze and generate the insights for anime industry.
+
+# Phases
+1. ETL using Python and Airflow (Completed)
+2. Manage GCP resources using Terraform (Inprogress)
+
 # Prerequisites
 Before running the DAG, ensure you have the following prerequisites:
 
