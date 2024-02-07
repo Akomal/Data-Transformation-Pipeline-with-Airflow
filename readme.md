@@ -26,7 +26,7 @@ Before running the DAG, ensure you have the following prerequisites:
 
 1. Removes empty columns.
 2. Drops duplicate rows.
-3. Normalizes column names.
+3. Normalizes column names
 
 <b> Transformation (transformation):</b>
 
