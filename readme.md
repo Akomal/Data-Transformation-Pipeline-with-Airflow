@@ -3,7 +3,7 @@ This project is a part of my build in public challenge on twitter. The dataset u
 
 # Phases
 1. ETL using Python and Airflow (Completed)
-2. Manage GCP resources using Terraform (Inprogress)
+2. Manage cloud resources using Terraform (Inprogress)
 
 # Prerequisites
 Before running the DAG, ensure you have the following prerequisites:
