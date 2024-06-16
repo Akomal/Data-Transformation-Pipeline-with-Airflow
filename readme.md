@@ -1,6 +1,5 @@
 # Overview
-This project is a part of my build in public challenge on twitter. The dataset used for this challenge is anime dataset from Kaggle.The project is intended to analyze and generate the insights for anime industry.
-
+This project is a part of my build in public challenge on twitter. The dataset used for this challenge is anime dataset from Kaggle.
 # Prerequisites
 Before running the DAG, ensure you have the following prerequisites:
 
@@ -49,7 +48,7 @@ Before running the DAG, ensure you have the following prerequisites:
 
 3. Copy the DAG file (etl_orchestrator.py) to the DAGs directory of your Apache Airflow installation.
 
-4. Access the Airflow web interface and trigger the DAG manually.(This project is in progress so it's scheduled manually).
+4. Access the Airflow web interface and trigger the DAG manually.
 
 # Note
 
