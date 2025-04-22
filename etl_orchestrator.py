@@ -20,6 +20,7 @@ def anime_dag():
             return data
         else:
             raise FileNotFoundError(f"File not found: {file_path}")
+            
 
     @task
     def data_cleaning(data):
