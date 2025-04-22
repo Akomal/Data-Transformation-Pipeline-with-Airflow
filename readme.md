@@ -50,6 +50,7 @@ Before running the DAG, ensure you have the following prerequisites:
 
 4. Access the Airflow web interface and trigger the DAG manually.
 
+
 # Note
 
 1. The DAG is configured with schedule_interval=None, indicating it needs to be triggered manually.
